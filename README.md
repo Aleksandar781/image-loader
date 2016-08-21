@@ -1,2 +1,6 @@
 # image-loader
-Zadatak
+Zadatak 
+
+
+
+Danas zavrsen zadacic :D
